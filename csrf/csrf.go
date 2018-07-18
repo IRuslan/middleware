@@ -7,9 +7,9 @@ package csrf
 import (
 	"net/url"
 
-	"github.com/kataras/iris"
-	"github.com/kataras/iris/context"
-	"github.com/kataras/iris/core/errors"
+	"github.com/IRuslan/iris"
+	"github.com/IRuslan/iris/context"
+	"github.com/IRuslan/iris/core/errors"
 
 	"github.com/gorilla/securecookie"
 )

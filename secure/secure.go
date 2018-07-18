@@ -8,8 +8,8 @@ import (
 	"net"
 	"strings"
 
-	"github.com/kataras/iris"
-	"github.com/kataras/iris/context"
+	"github.com/IRuslan/iris"
+	"github.com/IRuslan/iris/context"
 )
 
 const (

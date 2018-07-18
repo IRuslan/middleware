@@ -3,7 +3,7 @@ package i18n
 import (
 	"strings"
 
-	"github.com/kataras/iris/context"
+	"github.com/IRuslan/iris/context"
 	"github.com/nicksnyder/go-i18n/i18n/bundle"
 )
 

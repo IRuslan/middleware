@@ -8,8 +8,8 @@ import (
 
 	"github.com/dgrijalva/jwt-go"
 
-	"github.com/kataras/iris"
-	"github.com/kataras/iris/context"
+	"github.com/IRuslan/iris"
+	"github.com/IRuslan/iris/context"
 )
 
 // iris provides some basic middleware, most for your learning courve.

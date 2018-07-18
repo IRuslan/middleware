@@ -1,4 +1,4 @@
-This repository provides a way to share any minor handlers for [iris](https://github.com/kataras/iris) web framework. You can view the built'n supported handlers by pressing [here](https://github.com/kataras/iris/tree/v8/middleware).
+This repository provides a way to share any minor handlers for [iris](https://github.com/IRuslan/iris) web framework. You can view the built'n supported handlers by pressing [here](https://github.com/IRuslan/iris/tree/v8/middleware).
 
 [![Build status](https://api.travis-ci.org/iris-contrib/middleware.svg?branch=v8&style=flat-square)](https://travis-ci.org/iris-contrib/middleware)
 
@@ -70,7 +70,7 @@ app.UseGlobal(func(ctx iris.Context){}, myMiddleware2)
 package main
 
 import (
-    "github.com/kataras/iris"
+    "github.com/IRuslan/iris"
 )
 
 func main() {
